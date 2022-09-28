@@ -6,7 +6,7 @@ const bottom = document.querySelector(".bottom");
 const songs = [
   {
     img: "./shiddat.jpg",
-    song: "./Shiddat - Title Song.mp3",
+    song: "./music_files/Shiddat - Title Song.mp3",
     title: "Shiddat",
   },
   { img: "./1.jpg", song: "./1.mp3", title: "One" },
